@@ -1,4 +1,6 @@
-## Hi there 👋
+# antiweevil
+
+Hello. I design scripts, payloads, and other programs, mainly in Python.
 
 <!--
 **antiweevil/antiweevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
