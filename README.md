@@ -1,18 +1,11 @@
-# antiweevil
+## antiweevil's profile
 
-Hello. I design scripts, payloads, and other programs, mainly in Python.
+hello.
 
-<!--
-**antiweevil/antiweevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+about me: i design scripts, payloads, and other programs, mainly in python.
+currently working on: wpa2 attacks and handshake capturing
+how to reach me: you can't.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+check out the following repos if you're interested.
++ [obscure-usb](https://github.com/antiweevil/obscure-usb/)
++ ... more coming soon.
