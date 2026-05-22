@@ -1,5 +1,3 @@
-## antiweevil's profile
-
 hello.
 
 about me: i design scripts, payloads, and other programs, mainly in python.
