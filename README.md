@@ -6,6 +6,8 @@ hello.
 
 ◇ how to reach me: you can't.
 
+***
+
 check out the following repos if you're interested.
 + [obscure-usb](https://github.com/antiweevil/obscure-usb/)
 + and more coming soon...
