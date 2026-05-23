@@ -1,6 +1,6 @@
 hello.
 
-◇ about me: i design scripts, payloads, and other programs, mainly in python.
+◇ i design scripts, payloads, and other programs, mainly in python.
 
 ◇ currently working on: evil twin attacks.
 
