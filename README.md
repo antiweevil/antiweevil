@@ -1,6 +1,6 @@
-hello.
+hello. i design scripts, payloads, and other programs, mainly in python.
 
-◇ i design scripts, payloads, and other programs, mainly in python.
+◇ operating system: debian13.
 
 ◇ currently working on: evil twin attacks.
 
